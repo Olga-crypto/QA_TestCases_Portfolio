@@ -13,7 +13,7 @@ This repository covers two web applications:
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - **SauceDemo_BookStore_TestCases_BugReports.xlsx**  
 - **SauceDemo_Login** – Positive and negative login test cases.  
@@ -25,7 +25,7 @@ This repository covers two web applications:
 
 ---
 
-## 🧪 Highlights
+## Highlights
 
 - Structured **positive and negative test cases** with clear steps, expected results, and priorities.  
 - Consistent, recruiter-friendly Excel formatting:  
@@ -37,7 +37,7 @@ This repository covers two web applications:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel file from this repository.  
 2. Open the file in Microsoft Excel, Google Sheets, or LibreOffice.  
@@ -45,14 +45,14 @@ This repository covers two web applications:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - *Book Store Application* refers to the DemoQA Book Store app: [https://demoqa.com/books](https://demoqa.com/books)  
 - This project is intended for **educational** and **portfolio** purposes only.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out for any questions or collaboration opportunities!
 
