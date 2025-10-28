@@ -25,18 +25,6 @@ This repository covers two web applications:
 
 ---
 
-## Highlights
-
-- Structured **positive and negative test cases** with clear steps, expected results, and priorities.  
-- Consistent, recruiter-friendly Excel formatting:  
-  - Bold headers  
-  - Alternating row shading  
-  - Centered IDs & Pre-conditions  
-  - Wrapped text for long steps and results  
-- Separate **bug reports** sheet with real issues discovered in DemoQA Book Store.
-
----
-
 ## How to Use
 
 1. Download the Excel file from this repository.  
